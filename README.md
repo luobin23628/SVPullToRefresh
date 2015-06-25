@@ -12,7 +12,7 @@ These UIScrollView categories makes it super easy to add pull-to-refresh and inf
 
 ### From CocoaPods
 
-Add `pod 'SVPullToRefresh'` to your Podfile or `pod 'SVPullToRefresh', :head` if you're feeling adventurous.
+Add `pod 'SVPullToRefreshImprove'` to your Podfile or `pod 'SVPullToRefreshImprove', :head` if you're feeling adventurous.
 
 ### Manually
 
