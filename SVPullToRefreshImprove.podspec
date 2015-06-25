@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 #  summary should be tweet-length, and the description more in depth.
 #
 
-s.name         = "SVPullToRefresh"
+s.name         = "SVPullToRefreshImprove"
 s.version      = "0.5"
 s.summary      = "Give pull-to-refresh to any UIScrollView with 1 line of code."
 
@@ -78,7 +78,7 @@ s.platform     = :ios, "6.0"
 #  Supports git, hg, bzr, svn and HTTP.
 #
 
-s.source       = { :git => "https://github.com/luobin23628/SVPullToRefresh", :tag => "0.5" }
+s.source       = { :git => "https://github.com/luobin23628/SVPullToRefresh.git", :tag => "0.5" }
 
 
 # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
